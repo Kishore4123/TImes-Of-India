@@ -1,0 +1,92 @@
+body {
+  background-color: deepskyblue;
+}
+
+.img-bg{
+  background-color:deepskyblue;
+  border-style:solid;
+  border-width:20px;
+  display: inline-block;
+}
+
+.img-2{
+   border-color: Black;
+   border-style:solid;
+   border-width:20px;
+   display:inline-block;
+   Margin-left:680px;
+   Margin-bottom:5px;
+
+}
+
+.img-3{
+  border-color: Black;
+  border-style:solid;
+  border-width:20px;
+  display:inline-block;
+  margin-left:240px;
+}
+
+.img-4{
+  border-color: Black;
+  border-style:solid;
+  border-width:20px;
+  display:inline-block;
+  margin-left:680px;
+}
+
+.h-1{
+  font-size: 140px;
+  font-family:fantasy;
+}
+
+.h-2{
+  font-size: 140px;
+  font-family:fantasy;
+}
+
+.container-5{
+  margin-left:110px;
+  color:black;
+}
+
+.container-6{
+  margin-left:230px;
+  color:Orange;
+}
+.h-3{
+  font-size: 140px;
+  font-family:fantasy;
+}
+
+.container-7{
+color:DarkViolet;
+Margin-left:380px;
+}
+
+.h-4{
+  font-size: 140px;
+  font-family:fantasy;
+}
+
+.container-8{
+  color:DarkGreen;
+  margin-left:45px;
+}
+
+#bod{
+  background-color: White;
+}
+
+.title{
+  margin-left: 170px;
+}
+
+.Ad-1{
+  margin-left: 700px;
+  margin-top: 20px;
+}
+
+.info {
+  font-size: 40px;
+}
